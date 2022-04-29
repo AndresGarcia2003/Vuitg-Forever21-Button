@@ -84,6 +84,6 @@ Forever21Button.schema = {
       type: 'number',
     },
   },
-}
+} 
 
 export default Forever21Button
